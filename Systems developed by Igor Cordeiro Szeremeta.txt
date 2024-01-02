@@ -1,0 +1,21 @@
+1. Web Clinic System developed in HTML, CSS, PHP and Bootstrap: https://www.youtube.com/watch?v=r1xZWiLhW18
+
+2. Shopping Cart System developed in HTML, CSS, PHP and Bootstrap: https://www.youtube.com/watch?v=bIcaOQo6A4k
+
+3. This work consists of the development of an application (mobile application) related to the fight against Coronavirus, using Android programming, with the aim of informing, raising awareness and helping the population to prevent themselves against Coronavirus, which can be of great use for help save lives:
+https://www.youtube.com/watch?v=JgKhS70nI4I
+
+4. Systems developed in the C++ programming language: https://www.youtube.com/watch?v=nTrGYAVyTLU
+
+5. Student registration video developed in the Java programming language:
+https://www.youtube.com/watch?v=Um-0K_faK4Y
+
+6. Face Detection System in Python: https://www.youtube.com/watch?v=wtMrdTP2qtk
+
+7. Data Mining in Python: https://www.youtube.com/watch?v=O3s3ztQvNJc
+
+8. Bookstore System in C#: https://www.youtube.com/watch?v=m8_q28mhGhA
+
+9. Analog Clock and Digital Clock, and Eletronic Ballot Box in HTML, CSS and JavaScript: https://www.youtube.com/watch?v=cYg189nleE0
+
+10. Two projects in 3 dimensions in Blender: https://www.youtube.com/watch?v=4NaBjBS31DY
